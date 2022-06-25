@@ -40,5 +40,5 @@ Free users only 1 request per 30 minutes.
 The given file name has {num} characters.
 
 <b>Essays Not allowed in Telegram file name!</b>
-©️ <code>@ReNameBot</code>
+©️ <code>@crazyrenamebot</code>
 Please short your file name and try again!"""
